@@ -1,0 +1,25 @@
+body {
+  background-color: rgba(128, 128, 128, 0.753);
+  text-align: center;
+}
+.text-green {
+  color: rgb(1, 30, 2);
+  font-size: 50px;
+}
+h2 {
+  color: rgb(13, 45, 13);
+  clear: auto;
+}
+a {
+  color: rgb(23, 23, 23);
+}
+.fs-20 {
+  font-size: 30px;
+}
+.text-grı {
+  color: rgb(78, 68, 15);
+}
+img {
+  width: 300px;
+  height: 300;
+}
